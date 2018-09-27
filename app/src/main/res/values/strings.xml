@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinFirst</string>
+    <string name="universe">Hello Universe</string>
+    <string name="toast">Toast</string>
+    <string name="count">Count</string>
+    <string name="random">Random</string>
+    <string name="heading">random number between 0 and %1d</string>
+</resources>
